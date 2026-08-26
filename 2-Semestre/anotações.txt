@@ -1,0 +1,20 @@
+Aula(25-08-2026):
+    Para entrar na AWS:
+        link: https://awsacademy.instructure.com/login/canvas/
+        email: padrão!
+        senha: padrãoAWS!
+    Comandos Ubuntu:
+        ls -> list 
+        touch 'arquivo'-> 
+        vi 'arquivo' -> entra num arquivo 
+        para escrever dentro do arquivo apertar "Insert" 
+        para salvar o arquivo:
+            esc -> : -> W
+        para sair o arquivo:
+            esc -> : -> Q
+        clear -> limpa a tela do terminal 
+        cat 'arquivo' -> mostra o conteúdo 
+        sudo su -> entra no root 
+        dentro do root:
+            apt-get update -> atualiza o sistema 
+            apt-get install apache2 -> instala o apache no sistema 
