@@ -18,3 +18,17 @@ Aula(25-08-2026):
         dentro do root:
             apt-get update -> atualiza o sistema 
             apt-get install apache2 -> instala o apache no sistema 
+Aula(08-09-2026):
+    Comandos Ubuntu:
+        dentro do root:
+            cd /var/www/html/ -> entra na pasta dentro do caminho colocado
+            ls -> lista o que tem dentro da pasta
+            cp index.html index.html.bak -> copia o primeiro arquivo digitado e cria um novo igual com nome digitado em seguida
+            vi index.html -> é o avõ do bloco de notas
+            dentro do vi:
+                insert -> para poder alterar alguma coisa
+                esc --> : --> w -> vai salvar o arquivo editado
+            touch nome-do-arquivo.html -> cria um arquivo
+            rm nome-do-arquivo -> excluir o arquivo
+            chown -R(aplica para todas as pastas) ubuntu:ubuntu /var/www/html/ -> troca o dono
+            chmod -R 755 /var/www/html/ -> troca as permissões
